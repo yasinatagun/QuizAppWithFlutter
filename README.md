@@ -1,16 +1,9 @@
 # quiz_app
 
-A new Flutter project.
+A flutter quiz app.
+Created for practicing flutter basics.
+Used lifting state up, data passing, mapping and some other features of flutter on this project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1707580984](https://github.com/yasinatagun/QuizAppWithFlutter/assets/4943407/b64ea105-ac18-407f-9517-42b93d4081ff)
+![Screenshot_1707580974](https://github.com/yasinatagun/QuizAppWithFlutter/assets/4943407/630ca8dc-e39d-4709-8c8e-7d7cd2448287)
+![Screenshot_1707580971](https://github.com/yasinatagun/QuizAppWithFlutter/assets/4943407/125a2da3-a855-4bc2-864a-f21fc838387c)
